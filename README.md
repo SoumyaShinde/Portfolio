@@ -1,6 +1,6 @@
-# 👩‍💻 Jane Doe Portfolio
+# 👩‍💻 Soumya Shinde Portfolio
 
-This is a personal portfolio website showcasing the skills, projects, and recommendations of Jane Doe, a full-stack developer with strong expertise in Java back-end development, front-end technologies, and cloud platforms like AWS and Azure.
+This is a personal portfolio website showcasing the skills, projects, and recommendations for Jane Doe (user), a full-stack developer with strong expertise in Java back-end development, front-end technologies, and cloud platforms like AWS and Azure.
 
 ---
 
